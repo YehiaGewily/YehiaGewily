@@ -10,7 +10,6 @@
   
 </div>
 
----
 
 <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif" width="300" align="right">
 
@@ -18,7 +17,6 @@
 
 **Software & Data Engineer** with experience building **scalable data pipelines** and **real-time processing systems** that power **SEO automation platforms** and **neuromodulation research**. Proven record of turning **complex mathematical models into production-grade microservices**, **automating end-to-end data workflows**, and **leading large engineering teams** to deliver high-impact technical solutions.
 
----
 
 ## Tech Stack
 
@@ -67,25 +65,25 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
 
----
+
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://test-l7eyt64bc-yehiagewilys-projects.vercel.app/api?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://test-l7eyt64bc-yehiagewilys-projects.vercel.app/api?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  
+  <br/>
 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YehiaGewily&theme=shadow_green&hide_border=false" alt="Streak Stats" />
+  
+  <br/>
 
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=YehiaGewily&theme=shadow_green&hide_border=false" />
-
-
-
-<img src="https://test-l7eyt64bc-yehiagewilys-projects.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://test-l7eyt64bc-yehiagewilys-projects.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
----
+
 
 ## Professional Experience
 
@@ -128,7 +126,7 @@
 - Authored comprehensive system architecture documentation, creating a critical knowledge base for future generations
 - **Tech Stack:** Python, C++, ROS, Linux, SLAM, Docker, SSH, PyTorch, OpenCV, Agile
 
----
+
 
 ## Featured Projects
 
