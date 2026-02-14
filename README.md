@@ -80,14 +80,9 @@
 ## GitHub Stats
 
 <div align="center">
-<<<<<<< HEAD
 
   <!-- 
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-=======
-<br>
-  <img src="https://test-l7eyt64bc-yehiagewilys-projects.vercel.app/api?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
->>>>>>> 3f912dedf918df3a59d9c64de1d7979363b3031c
   
   <br/>
   -->
@@ -96,13 +91,8 @@
   
   <br/>
 
-<<<<<<< HEAD
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-=======
-  <img src="https://test-l7eyt64bc-yehiagewilys-projects.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-<br/>
->>>>>>> 3f912dedf918df3a59d9c64de1d7979363b3031c
 </div>
 
 
