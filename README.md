@@ -18,6 +18,7 @@
 **Software & Data Engineer** with experience building **scalable data pipelines** and **real-time processing systems** that power **SEO automation platforms** and **neuromodulation research**. Proven record of turning **complex mathematical models into production-grade microservices**, **automating end-to-end data workflows**, and **leading large engineering teams** to deliver high-impact technical solutions.
 
 
+
 ## Tech Stack
 
 ### Programming Languages
