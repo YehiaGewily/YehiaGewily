@@ -79,7 +79,7 @@
 ![Weaviate](https://img.shields.io/badge/Weaviate-FA0171?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ## GitHub Stats
-
+ 
 <div align="center">
 
   <!--
