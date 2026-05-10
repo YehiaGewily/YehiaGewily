@@ -283,7 +283,7 @@ I also led **Mind Cloud**, a 70+ member robotics organization, from a 9th-place 
 
 <div align="center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YehiaGewily&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" />
 
   <br><br>
 
