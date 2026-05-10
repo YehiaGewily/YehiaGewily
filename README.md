@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=560&lines=Founding+Engineer+%26+Tech+Lead+%40+Nover.studio;Fine-tuning+diffusion+models+on+H100s;Led+70+engineers+to+a+rover+podium+finish;I+ship+things.&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=620&lines=Founding+Engineer+%26+Tech+Lead+%40+Nover.studio;AI+Systems+and+Backend+Architecture;Robotics,+Data,+and+Production+Infrastructure.&center=true" alt="Typing SVG">
 </div>
 
 <div align="center">
