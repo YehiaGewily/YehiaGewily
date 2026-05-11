@@ -12,17 +12,28 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
 ## Hey, I'm Yehia Gewily 👋
 
-I'm a final-year Electrical Engineering - Electronics & Communications Major - student at Alexandria University who doesn't wait for graduation to build real things.
+I'm a final-year Electrical Engineering - Electronics & Communications student at Alexandria University who doesn't wait for graduation to build real things.
 
-Right now I'm the **Founding Engineer & Tech Lead** at **[Nover](https://nover.ai)** — an AI image generation startup where I built the entire production backend: fine-tuning diffusion models on H100s, serving inference through ComfyUI on AWS, and wiring it all together with a custom WebSocket API. We're raising pre-seed.
+Right now I'm the **Founding Engineer & Tech Lead** at **[Nover](https://nover.ai)** — an AI image generation startup where I built the production backend: fine-tuning diffusion models on H100s, serving inference through ComfyUI on AWS, and wiring it all together with a custom WebSocket API. We're raising pre-seed.
 
 Before that, I spent 1.5 years as a software engineer at a US neuromodulation research company, where I built a real-time EEG "Digital Twin" pipeline — streaming brainwave data from OpenBCI hardware, running Hilbert transforms, and feeding it into coupled oscillator models. I also authored a research paper on Kuramoto-based EEG synchronization.
 
 On the side, I led **Mind Cloud**, a 70+ member robotics organization, from a 9th-place ERC finish to **2nd and 3rd place victories** at UGVC — migrating the entire stack to ROS 2 along the way.
 
 I like building things that are hard. I like shipping them even more.
+
+  </td>
+  <td width="38%" align="center" valign="top">
+    <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif" width="340" alt="Pixel art workspace animation" />
+  </td>
+  </tr>
+</table>
 
 ## What I Work With
 
