@@ -198,7 +198,13 @@ I like building things that are hard. I like shipping them even more.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YehiaGewily&theme=shadow_green&hide_border=true" alt="Streak Stats" />
+
+  <img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats-coral-two-59.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
 
 ---
