@@ -20,7 +20,7 @@
 
 I'm a final-year Electrical Engineering - Electronics & Communications student at Alexandria University who doesn't wait for graduation to build real things.
 
-Right now I'm the **Founding Engineer & Tech Lead** at **[Nover](https://nover.ai)** — an AI image generation startup where I built the production backend: fine-tuning diffusion models on H100s, serving inference through ComfyUI on AWS, and wiring it all together with a custom WebSocket API. We're raising pre-seed.
+Right now I'm the **Founding Engineer & Tech Lead** at **[Nover](https://nover.studio)** — an AI image generation startup where I built the production backend: fine-tuning diffusion models on H100s, serving inference through ComfyUI on AWS, and wiring it all together with a custom WebSocket API. We're raising pre-seed.
 
 Before that, I spent 1.5 years as a software engineer at a US neuromodulation research company, where I built a real-time EEG "Digital Twin" pipeline — streaming brainwave data from OpenBCI hardware, running Hilbert transforms, and feeding it into coupled oscillator models. I also authored a research paper on Kuramoto-based EEG synchronization.
 
