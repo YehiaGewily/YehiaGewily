@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=530&lines=Founding+Engineer+%26+Tech+Lead+%40+Nover;Led+70+engineers+to+a+rover+podium+finish;I+ship+things.&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=530&lines=I+am+Yehia+Gewily;Founding+Engineer+%26+Tech+Lead+%40+Nover;Led+70+engineers+to+a+rover+podium+finish;I+ship+things.&center=true" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<div align="center">
+  <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif" width="600" alt="Pixel art workspace animation" />
+</div>
 
 ## Hey, I'm Yehia Gewily 👋
 
@@ -27,13 +27,6 @@ Before that, I spent 1.5 years as a software engineer at a US neuromodulation re
 On the side, I led **Mind Cloud**, a 70+ member robotics organization, from a 9th-place ERC finish to **2nd and 3rd place victories** at UGVC — migrating the entire stack to ROS 2 along the way.
 
 I like building things that are hard. I like shipping them even more.
-
-  </td>
-  <td width="38%" align="center" valign="top">
-    <img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif" width="340" alt="Pixel art workspace animation" />
-  </td>
-  </tr>
-</table>
 
 ## What I Work With
 
