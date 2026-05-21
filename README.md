@@ -186,7 +186,7 @@ I like building things that are hard. I like shipping them even more.
 | **Founding Engineer & Tech Lead** | Nover | Built production AI image gen backend — diffusion model fine-tuning on H100s, ComfyUI inference on AWS, custom WebSocket API |
 | **Backend & Data Intern** | RankUp (EU, Remote) | Built the topical map update system — automated keyword research → clustering pipeline with SBERT and DataForSEO |
 | **Software Engineer** | U LLC (Ohio, Remote) | Built real-time EEG digital twin pipeline, authored Kuramoto-based research paper |
-| **Chairman** | Mind Cloud Robotics | Led 70+ engineers, 2nd & 3rd place at UGVC, migrated to ROS 2 |
+| **Chairman** | Mind Cloud Robotics | Led 70+ engineers, 2nd & 3rd place at UGVC|
 
 ## GitHub Stats
 
