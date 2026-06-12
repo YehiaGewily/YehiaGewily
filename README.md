@@ -8,6 +8,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehia-gewily-7545231a6/)
   [![Phone](https://img.shields.io/badge/%2B201055776866-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+201055776866)
   
+  <br><br>
+  
+  ![](https://komarev.com/ghpvc/?username=YehiaGewily&color=00BFFF&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -26,6 +30,21 @@ Before that, I spent 1.5 years as a software engineer at a US neuromodulation re
 
 On the side, I led **Mind Cloud**, a 70+ member robotics organization, from a 9th-place ERC finish to **2nd and 3rd place victories** at UGVC — migrating the entire stack to ROS 2 along the way.
 
+<<<<<<< HEAD
+=======
+I like building things that are hard. I like shipping them even more.
+
+<!--
+### ⚡ Quick Status
+
+- 🔭 I am currently working as **Founding Engineer & Tech Lead** at **[Nover](https://nover.studio)**.
+- 🧠 Currently diving deeper into **diffusion models and custom WebSocket API optimization**.
+- 📚 Author of a research paper on **Kuramoto-based EEG synchronization**.
+- 👯 I’m looking to collaborate on **distributed GPU inference & scalable backend architecture**.
+- ⚡ Fun fact: I led a 70+ robotics stack migration to ROS 2.
+-->
+
+>>>>>>> 7d30a51 (new update)
 ## What I Work With
 
 ### Languages
@@ -190,11 +209,19 @@ On the side, I led **Mind Cloud**, a 70+ member robotics organization, from a 9t
 
 <div align="center">
 
+  <img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&show_icons=true&theme=shadow_green&hide_border=false&hide_rank=true" alt="Yehia's GitHub stats" />
+
+  <br><br>
+
   <img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" />
 
   <br><br>
 
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YehiaGewily&bg_color=0f1419&color=88ffc8&line=00ff88&point=20232a&area=true&hide_border=false" alt="Yehia's Activity Graph" />
 
 </div>
 
