@@ -30,9 +30,8 @@ Before that, I spent 1.5 years as a software engineer at a US neuromodulation re
 
 On the side, I led **Mind Cloud**, a 70+ member robotics organization, from a 9th-place ERC finish to **2nd and 3rd place victories** at UGVC — migrating the entire stack to ROS 2 along the way.
 
-<<<<<<< HEAD
 =======
-I like building things that are hard. I like shipping them even more.
+
 
 <!--
 ### ⚡ Quick Status
@@ -44,7 +43,6 @@ I like building things that are hard. I like shipping them even more.
 - ⚡ Fun fact: I led a 70+ robotics stack migration to ROS 2.
 -->
 
->>>>>>> 7d30a51 (new update)
 ## What I Work With
 
 ### Languages
