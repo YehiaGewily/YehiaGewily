@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/yehia-gewily-7545231a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" title="LinkedIn profile"/>
   </a>
-  <a href="tel:+201055776866">
-    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0d1117" alt="WhatsApp" title="+20 105 577 6866"/>
-  </a>
   <a href="https://yehia-gewily.me">
     <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0d1117" alt="Nover" title="nover.studio"/>
   </a>
