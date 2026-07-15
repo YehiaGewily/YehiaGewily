@@ -45,7 +45,7 @@
 
 The APIs nobody sees. The queues that don't drop messages. The GPU pipelines that don't fall over at 3am. The schemas that survive the next migration. **Production engineering and DevOps are where I'm strongest** — AI infra, robotics, and embedded all lean on the same systems instincts.
 
-> _Frontend isn't my specialty. I can put a working UI over my own APIs, but pair me with a real frontend engineer for anything design-heavy._
+> _Backend is where I go deep. I'm comfortable full-stack enough to ship a working UI over my own APIs — I just optimize for what's behind them._
 
 ### Where I've Been
 
@@ -222,43 +222,29 @@ Analytics workflows, DataForSEO integrations, signal processing for the EEG pipe
 
 ## Featured Projects
 
-Real repositories, most-starred first. _Star counts update live._
+Real repositories — distributed systems and production infrastructure first. _Star counts update live._
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">THAAD Simulation</h3>
+    <td valign="top">
+      <h3 align="center">Nabda &nbsp;—&nbsp; Health Monitoring Platform</h3>
       <div align="center">
-        <p><strong>Physics-Based Missile Interception</strong></p>
-        <p>3D interceptor sim with Kalman-filtered radar tracking, augmented proportional navigation, realistic drag / G-limits, and interactive 3D replays with battle reports.</p>
+        <p><strong>Graduation Capstone · Multi-Service IoT System</strong></p>
+        <p>End-to-end health platform built as a set of cooperating services: a <strong>C++ wearable device</strong> streams data into a <strong>Java / Spring backend</strong>, <strong>Python</strong> services handle the diagnostic report model and an AI chatbot, and <strong>TypeScript</strong> web + <strong>Flutter</strong> mobile apps surface it to users.</p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-          <img src="https://img.shields.io/badge/Kalman_Filter-244c5a?style=flat-square" title="Kalman filtering"/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Java / Spring Boot"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python — ML report model & chatbot"/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++ — wearable device firmware"/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" title="Flutter — mobile app"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" title="TypeScript — web app"/>
         </p>
-        <a href="https://github.com/YehiaGewily/THAAD-Simulation">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/THAAD-Simulation?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">NetProbe</h3>
-      <div align="center">
-        <p><strong>Real-Time Traffic Analyzer</strong></p>
-        <p>Cross-platform C++20 packet analyzer — live capture (Npcap / libpcap), QUIC ClientHello SNI decryption, per-flow GeoIP/ASN, process attribution, and a Dear ImGui dashboard.</p>
-        <p>
-          <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++20"/>
-          <img src="https://img.shields.io/badge/ImGui-lightgrey?style=flat-square" title="Dear ImGui"/>
-          <img src="https://img.shields.io/badge/Npcap-blue?style=flat-square" title="Npcap / libpcap"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/netprobe-cpp">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/netprobe-cpp?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
+        <a href="https://github.com/Nabda-Project"><strong>View Organization →</strong></a>
       </div>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Go Distributed Queue</h3>
@@ -277,24 +263,6 @@ Real repositories, most-starred first. _Star counts update live._
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Physics-AI Bridge</h3>
-      <div align="center">
-        <p><strong>Statistical Mechanics ↔ AI</strong></p>
-        <p>Tracing the links between statistical mechanics and AI: a vectorized 2D Ising model mapped onto Hopfield networks to show how physical energy minimization drives memory recall.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
-          <img src="https://img.shields.io/badge/Hopfield_Nets-244c5a?style=flat-square" title="Hopfield networks"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/Physics-AI-Bridge">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/Physics-AI-Bridge?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">Agent Mesh</h3>
       <div align="center">
         <p><strong>Distributed Task Orchestration</strong></p>
@@ -302,10 +270,28 @@ Real repositories, most-starred first. _Star counts update live._
         <p>
           <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" title="Go"/>
           <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" title="Redis"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" title="React"/>
+          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" title="WebSockets"/>
         </p>
         <a href="https://github.com/YehiaGewily/Agent-Mesh">
           <img src="https://img.shields.io/github/stars/YehiaGewily/Agent-Mesh?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
+          &nbsp;<strong>View Repo →</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">NetProbe</h3>
+      <div align="center">
+        <p><strong>Real-Time Traffic Analyzer</strong></p>
+        <p>Cross-platform C++20 packet analyzer — live capture (Npcap / libpcap), QUIC ClientHello SNI decryption, per-flow GeoIP/ASN, process attribution, and a Dear ImGui dashboard.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++20"/>
+          <img src="https://img.shields.io/badge/ImGui-lightgrey?style=flat-square" title="Dear ImGui"/>
+          <img src="https://img.shields.io/badge/Npcap-blue?style=flat-square" title="Npcap / libpcap"/>
+        </p>
+        <a href="https://github.com/YehiaGewily/netprobe-cpp">
+          <img src="https://img.shields.io/github/stars/YehiaGewily/netprobe-cpp?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
           &nbsp;<strong>View Repo →</strong>
         </a>
       </div>
@@ -322,6 +308,40 @@ Real repositories, most-starred first. _Star counts update live._
         </p>
         <a href="https://github.com/YehiaGewily/real-time-arbitrage-engine">
           <img src="https://img.shields.io/github/stars/YehiaGewily/real-time-arbitrage-engine?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
+          &nbsp;<strong>View Repo →</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">THAAD Simulation</h3>
+      <div align="center">
+        <p><strong>Physics-Based Missile Interception</strong></p>
+        <p>3D interceptor sim with Kalman-filtered radar tracking, augmented proportional navigation, realistic drag / G-limits, and interactive 3D replays with battle reports.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
+          <img src="https://img.shields.io/badge/Kalman_Filter-244c5a?style=flat-square" title="Kalman filtering"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
+        </p>
+        <a href="https://github.com/YehiaGewily/THAAD-Simulation">
+          <img src="https://img.shields.io/github/stars/YehiaGewily/THAAD-Simulation?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
+          &nbsp;<strong>View Repo →</strong>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Agentic LLM Architectures</h3>
+      <div align="center">
+        <p><strong>12 Agentic Design Patterns</strong></p>
+        <p>Hands-on notebooks implementing reflection, ReAct, planning, multi-agent, memory, tree-of-thoughts & more — built with LangGraph, DeepSeek-V3, and Gemma 2.</p>
+        <p>
+          <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangGraph"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" title="Jupyter"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
+        </p>
+        <a href="https://github.com/YehiaGewily/Agentic-LLM-Architectures">
+          <img src="https://img.shields.io/github/stars/YehiaGewily/Agentic-LLM-Architectures?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
           &nbsp;<strong>View Repo →</strong>
         </a>
       </div>
@@ -350,17 +370,17 @@ Real repositories, most-starred first. _Star counts update live._
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Agentic LLM Architectures</h3>
+      <h3 align="center">Physics-AI Bridge</h3>
       <div align="center">
-        <p><strong>12 Agentic Design Patterns</strong></p>
-        <p>Hands-on notebooks implementing reflection, ReAct, planning, multi-agent, memory, tree-of-thoughts & more — built with LangGraph, DeepSeek-V3, and Gemma 2.</p>
+        <p><strong>Statistical Mechanics ↔ AI</strong></p>
+        <p>Tracing the links between statistical mechanics and AI: a vectorized 2D Ising model mapped onto Hopfield networks to show how physical energy minimization drives memory recall.</p>
         <p>
-          <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangGraph"/>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" title="Jupyter"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
+          <img src="https://img.shields.io/badge/Hopfield_Nets-244c5a?style=flat-square" title="Hopfield networks"/>
         </p>
-        <a href="https://github.com/YehiaGewily/Agentic-LLM-Architectures">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/Agentic-LLM-Architectures?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
+        <a href="https://github.com/YehiaGewily/Physics-AI-Bridge">
+          <img src="https://img.shields.io/github/stars/YehiaGewily/Physics-AI-Bridge?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
           &nbsp;<strong>View Repo →</strong>
         </a>
       </div>
