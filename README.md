@@ -17,11 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" title="LinkedIn profile"/>
   </a>
   <a href="https://yehia-gewily.me">
-<<<<<<< HEAD
-    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0d1117" alt="Nover" title="yehia-gewily.me"/>
-=======
     <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0d1117" alt="Website" title="yehia-gewily.me"/>
->>>>>>> bd67e04 (15th July)
   </a>
 
   <br><br>
