@@ -226,26 +226,6 @@ Real repositories — distributed systems and production infrastructure first. _
 
 <table>
   <tr>
-    <td valign="top">
-      <h3 align="center">Nabda &nbsp;—&nbsp; Health Monitoring Platform</h3>
-      <div align="center">
-        <p><strong>Graduation Capstone · Multi-Service IoT System</strong></p>
-        <p>End-to-end health platform built as a set of cooperating services: a <strong>C++ wearable device</strong> streams data into a <strong>Java / Spring backend</strong>, <strong>Python</strong> services handle the diagnostic report model and an AI chatbot, and <strong>TypeScript</strong> web + <strong>Flutter</strong> mobile apps surface it to users.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Java / Spring Boot"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python — ML report model & chatbot"/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++ — wearable device firmware"/>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" title="Flutter — mobile app"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" title="TypeScript — web app"/>
-        </p>
-        <a href="https://github.com/Nabda-Project"><strong>View Organization →</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Go Distributed Queue</h3>
       <div align="center">
@@ -417,6 +397,28 @@ Real repositories — distributed systems and production infrastructure first. _
           <img src="https://img.shields.io/github/stars/YehiaGewily/dot-spend?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
           &nbsp;<strong>View Repo →</strong>
         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### Capstone
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="center">Nabda &nbsp;—&nbsp; Health Monitoring Platform</h3>
+      <div align="center">
+        <p><strong>Graduation Capstone · Multi-Service IoT System</strong></p>
+        <p>End-to-end health platform built as a set of cooperating services: a <strong>C++ wearable device</strong> streams data into a <strong>Java / Spring backend</strong>, <strong>Python</strong> services handle the diagnostic report model and an AI chatbot, and <strong>TypeScript</strong> web + <strong>Flutter</strong> mobile apps surface it to users.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Java / Spring Boot"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python — ML report model & chatbot"/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++ — wearable device firmware"/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" title="Flutter — mobile app"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" title="TypeScript — web app"/>
+        </p>
+        <a href="https://github.com/Nabda-Project"><strong>View Organization →</strong></a>
       </div>
     </td>
   </tr>
