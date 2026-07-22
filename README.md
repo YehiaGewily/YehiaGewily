@@ -441,7 +441,7 @@ Real repositories — distributed systems and production infrastructure first. _
 
 <div align="center">
 
-  <img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&show_icons=true&theme=shadow_green&hide_border=true&show_rank=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" alt="Yehia's GitHub stats" />
+  <img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&show_icons=true&theme=shadow_green&hide_border=true&show_rank=true&rank_icon=rank&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" alt="Yehia's GitHub stats" />
 
   <img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" />
 
