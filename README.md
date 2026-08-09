@@ -1,148 +1,120 @@
 <!-- HERO -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=44&duration=4000&pause=1500&color=00BFFF&center=true&vCenter=true&width=720&height=80&lines=Yehia+Gewily" alt="Yehia Gewily"/>
+  <h1>Yehia Gewily</h1>
+  <h3>Backend & Systems Engineer · Founding Engineer @ <a href="https://nover.studio">Nover</a></h3>
 
-  <h3>Backend &amp; Systems Engineer &nbsp;·&nbsp; Founding Engineer @ <a href="https://nover.studio">Nover</a></h3>
+  <p align="center">
+    <code>Distributed backends</code> &nbsp;•&nbsp; <code>Real-time streaming</code> &nbsp;•&nbsp; <code>GPU inference infra</code> &nbsp;•&nbsp; <code>DevOps & IaC</code>
+  </p>
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=A9B5C0&center=true&width=620&lines=Production+infrastructure.;Real-time+pipelines.;GPU-backed+services.;Distributed+by+default.;Ship+things+that+actually+work." alt="Tagline rotator"/>
-
-  <br><br>
-
-  <!-- CONTACT -->
-  <a href="mailto:yehiasaidgewily@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email" title="yehiasaidgewily@gmail.com"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yehia-gewily-7545231a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" title="LinkedIn profile"/>
-  </a>
-  <a href="https://yehia-gewily.me">
-    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0d1117" alt="Website" title="yehia-gewily.me"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=YehiaGewily&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <p>
+    <a href="mailto:yehiasaidgewily@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email" title="yehiasaidgewily@gmail.com"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yehia-gewily-7545231a6/">
+      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" title="LinkedIn profile"/>
+    </a>
+    <a href="https://yehia-gewily.me">
+      <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0d1117" alt="Website" title="yehia-gewily.me"/>
+    </a>
+  </p>
 
 </div>
 
-<!-- ── AT A GLANCE ─────────────────────────────────────────────── -->
-<div align="center">
+---
 
-<br>
+## Now
 
-`Distributed backends` &nbsp;•&nbsp; `Real-time streaming` &nbsp;•&nbsp; `GPU inference infra` &nbsp;•&nbsp; `DevOps & IaC`
-
-</div>
+🔭 **Founding Engineer & Tech Lead @ [Nover](https://nover.studio)** — Owning end-to-end production infrastructure for an AI image generation platform: diffusion fine-tuning on H100s, ComfyUI inference serving on AWS, custom WebSocket APIs, and job orchestration. Took the product from initial development to public waitlist launch.
 
 ---
 
 ## About
 
-> _"I build the unglamorous half of a product."_
+> *"I build the unglamorous half of a product."*
 
-**Backend & Systems Engineer.** Final-year Electrical Engineering — Electronics & Communications student at Alexandria University, building production infrastructure now instead of waiting on graduation.
+Backend and distributed-systems engineer with founding-team experience. I own production infrastructure end to end — the APIs nobody sees, the queues that don't drop messages, the GPU pipelines that don't fall over at 3am, and the schemas that survive the next migration.
 
-The APIs nobody sees. The queues that don't drop messages. The GPU pipelines that don't fall over at 3am. The schemas that survive the next migration. **Production engineering and DevOps are where I'm strongest** — AI infra, robotics, and embedded all lean on the same systems instincts.
-
-> _Backend is where I go deep. I'm comfortable full-stack enough to ship a working UI over my own APIs — I just optimize for what's behind them._
+**Backend is where I go deep.** I'm comfortable full-stack enough to ship a working UI over my own APIs — I just optimize for what's behind them.
 
 ### Where I've Been
 
-> **Today —** Founding Engineer & Tech Lead at **[Nover](https://nover.studio)**. I own the production backend for our AI image generation platform: fine-tuning diffusion models on H100s, serving inference through ComfyUI on AWS, and wiring it together with a custom WebSocket API that holds up under real traffic. Pre-seed in progress.
+- **Today —** Founding Engineer & Tech Lead at **[Nover](https://nover.studio)**. End-to-end engineering spanning the TypeScript/React application, real-time WebSocket services, backend APIs, job orchestration, and an autoscaled GPU inference platform on AWS. Fine-tuned diffusion models on H100s, implemented capacity planning and autoscaling, and shipped the public waitlist launch.
 
-> **Recently —** Software Engineer at **RankUp** (EU, remote). Built the topical map update system — an automated keyword research → clustering pipeline using SBERT embeddings and DataForSEO. Backend-and-data work, end to end.
+- **Recently —** Backend & Data Automation at **RankUp** (EU, remote). Engineered a Topical Map Update System automating SEO keyword research and clustering with SBERT and DataForSEO, cutting manual strategy time by 40%. Built granular cost tracking (AWS S3) and structured logging (Rollbar) for real-time API spend visibility.
 
-> **Before —** 1.5 years as a Software Engineer at a US neuromodulation research company. Built a real-time EEG digital twin pipeline: streaming brainwave data off OpenBCI hardware, running Hilbert transforms on the wire, and feeding it into coupled oscillator models. Authored a research paper on Kuramoto-based EEG synchronization along the way.
+- **Before —** Software Engineer at **U LLC** (Ohio, remote). Built a real-time EEG digital twin pipeline: streaming OpenBCI brainwave data, running Hilbert transforms on the wire, and feeding coupled oscillator models. Authored a Kuramoto-based EEG synchronization research paper; containerised backend services with Docker and enforced PyTest validation protocols.
 
-> **On the side —** Led **Mind Cloud** (70+ engineers) from a 9th-place ERC finish to **2nd and 3rd at UGVC**, and migrated the entire stack to ROS 2 — a distributed systems problem dressed up as a robotics one.
+- **On the side —** Led **Mind Cloud Robotics** (70+ engineers) from a 9th-place ERC finish to **2nd and 3rd at UGVC**, and migrated the entire stack to ROS 2 on Ubuntu 24.04 — a distributed systems problem dressed up as a robotics one.
 
 ---
 
-## Core Stack — Backend & Systems
+## Core Stack
 
-This is what I reach for first, and where most of my production work lives. _Hover any icon for a tooltip._
+**What I ship:** REST · gRPC · WebSocket systems · long-lived streaming connections · idempotent task APIs · microservices · event-driven backends · queue-based workloads · atomic task distribution · real-time stream processing · ETL pipelines · structured logging · container orchestration · IaC · CI/CD · GPU-backed service operation · live observability.
 
-### Backend & APIs
-
+<h4>Backend & APIs</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" title="FastAPI — modern Python web framework"/>
-  <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django" title="Django — Python web framework"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="48" alt="Flask" title="Flask — lightweight Python web framework"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" title="Spring Boot — Java backend framework"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" title="Node.js — JavaScript runtime for backend services"/>
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" title="Express.js — Node.js web framework"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" title="GraphQL — query language for APIs"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI — modern Python web framework"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" title="Django — Python web framework"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask — lightweight Python web framework"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot — Java backend framework"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js — JavaScript runtime for backend services"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js — Node.js web framework"/>
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" title="GraphQL — query language for APIs"/>
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" title="gRPC — high-performance RPC framework"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" title="WebSockets — real-time bidirectional protocol"/>
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST" title="REST — architectural style for HTTP APIs"/>
 </p>
 
-**Patterns I ship:** REST · gRPC · WebSocket systems · long-lived streaming connections · idempotent task APIs.
-
-### Distributed Systems & Architecture
-
+<h4>Distributed Systems & Architecture</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" title="Redis — in-memory data store for caching, queues, atomic ops"/>
-  <img src="https://skillicons.dev/icons?i=kafka" height="48" alt="Apache Kafka" title="Apache Kafka — distributed event streaming platform"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" title="PostgreSQL — relational database"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" title="MongoDB — document database"/>
-  <img src="https://skillicons.dev/icons?i=cassandra" height="48" alt="Apache Cassandra" title="Apache Cassandra — wide-column distributed database"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis — in-memory data store for caching, queues, atomic ops"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Apache Kafka" title="Apache Kafka — distributed event streaming platform"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL — relational database"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB — document database"/>
+  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="Apache Cassandra" title="Apache Cassandra — wide-column distributed database"/>
   <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Apache Flink" title="Apache Flink — stream processing engine"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" title="Apache Airflow — workflow orchestration"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" title="RabbitMQ — message broker"/>
 </p>
 
-**Architecture focus:** microservices · event-driven backends · queue-based workloads · atomic task distribution · real-time stream processing · ETL pipelines · structured logging.
-
-### Production Engineering & DevOps
-
+<h4>Production Engineering & DevOps</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" title="AWS — Amazon Web Services (ECS, S3, RDS, GPU instances)"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" title="Docker — containerization"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" title="Kubernetes — container orchestration"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform" title="Terraform — infrastructure as code"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions — CI/CD pipelines"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx" title="Nginx — reverse proxy and web server"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" title="Linux — system administration and tooling"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash — shell scripting and automation"/>
-  <img src="https://skillicons.dev/icons?i=prometheus" height="48" alt="Prometheus" title="Prometheus — metrics and monitoring"/>
-  <img src="https://skillicons.dev/icons?i=grafana" height="48" alt="Grafana" title="Grafana — observability dashboards"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloudflare" title="Cloudflare — CDN, DNS, edge networking"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS — Amazon Web Services (ECS, S3, RDS, GPU instances)"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker — containerization"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes — container orchestration"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" title="Terraform — infrastructure as code"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions — CI/CD pipelines"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" title="Nginx — reverse proxy and web server"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux — system administration and tooling"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash — shell scripting and automation"/>
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" title="Prometheus — metrics and monitoring"/>
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" title="Grafana — observability dashboards"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Cloudflare" title="Cloudflare — CDN, DNS, edge networking"/>
 </p>
 
-**What I actually do in production:**
-
-- Cloud architecture on AWS — ECS, S3, RDS, GPU instances for inference
-- Container orchestration and reproducible Docker / Kubernetes pipelines
-- Infrastructure-as-code with Terraform — repeatable, reviewable, rollback-friendly
-- CI/CD with GitHub Actions — build, test, deploy, with rollback discipline
-- Observability with Prometheus + Grafana — live dashboards, alerts, real traffic visibility
-- GPU-backed service operation (H100s for diffusion) — cost, throughput, failure recovery
-- Linux administration, shell tooling, and the boring glue that keeps systems alive
-
-### Languages I Reach For
-
+<h4>Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" title="Go (Golang)"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" title="Rust"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" title="C"/>
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=matlab" height="48" alt="MATLAB" title="MATLAB — numerical computing language"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash / Shell"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go (Golang)"/>
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB" title="MATLAB — numerical computing language"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash / Shell"/>
 </p>
 
-### Tools & Editors
-
+<h4>Tools & Editors</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git — distributed version control"/>
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub — code hosting and collaboration"/>
-  <img src="https://skillicons.dev/icons?i=vim" height="48" alt="Vim" title="Vim — modal text editor"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" title="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git — distributed version control"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub — code hosting and collaboration"/>
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="Vim" title="Vim — modal text editor"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="Visual Studio Code"/>
 </p>
 
 ---
@@ -154,305 +126,137 @@ I lean on these when the system needs them — not the headline, but I've shippe
 <details>
 <summary><strong>AI Engineering & MLOps</strong> — diffusion models, GPU inference, LoRA fine-tuning, agentic systems</summary>
 <br>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" title="PyTorch — deep learning framework"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" title="TensorFlow — deep learning framework"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="48" alt="scikit-learn" title="scikit-learn — classical ML"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch — deep learning framework"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow — deep learning framework"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn" title="scikit-learn — classical ML"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" title="CUDA — NVIDIA GPU computing"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face — model hub and Transformers library"/>
   <img src="https://img.shields.io/badge/Modal-00DC82?style=flat-square&logo=modal&logoColor=white" alt="Modal" title="Modal — serverless GPU compute"/>
   <img src="https://img.shields.io/badge/ComfyUI-000000?style=flat-square" alt="ComfyUI" title="ComfyUI — node-based diffusion workflow runtime"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" title="LangGraph — agentic LLM orchestration"/>
 </p>
-
-Treated as an _infrastructure_ problem: model deployment, inference serving, GPU workloads, visual generation systems, and agentic architectures.
-
+Treated as an <em>infrastructure</em> problem: model deployment, inference serving, GPU workloads, visual generation systems, and agentic architectures.
 </details>
 
 <details>
-<summary><strong>Frontend (basic — not my specialty)</strong> — enough to put a working UI over my own APIs</summary>
+<summary><strong>Frontend</strong> — enough to put a working UI over my own APIs</summary>
 <br>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" title="HTML5 — markup language"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" title="CSS3 — styling language"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" title="Next.js — React framework"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" title="React — UI library"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" title="Tailwind CSS — utility-first CSS"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5 — markup language"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3 — styling language"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js — React framework"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React — UI library"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS — utility-first CSS"/>
 </p>
-
-Honest about scope: I can ship a usable Next.js / React surface over an API I built, but I'm **not a frontend engineer**. For anything design-heavy, polished, or accessibility-critical, pair me with someone who specializes in it. Backend is where I optimize.
-
+Honest about scope: I can ship a usable Next.js / React surface over an API I built, but I'm <strong>not a frontend engineer</strong>. For anything design-heavy, polished, or accessibility-critical, pair me with someone who specializes in it. Backend is where I optimize.
 </details>
 
 <details>
 <summary><strong>Robotics & Embedded Systems</strong> — SLAM, autonomous navigation, low-level I/O</summary>
 <br>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" title="Arduino — microcontroller platform"/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="48" alt="Raspberry Pi" title="Raspberry Pi — single-board computer"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" title="C++ — robotics and systems language"/>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" title="Arduino — microcontroller platform"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi" title="Raspberry Pi — single-board computer"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++ — robotics and systems language"/>
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" title="ROS 2 — Robot Operating System (middleware)"/>
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266" title="ESP8266 — Wi-Fi microcontroller"/>
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white" alt="Embedded C" title="Embedded C — low-level firmware programming"/>
 </p>
-
 SLAM · autonomous navigation · LiDAR perception · robot control · TF2 · UART · I2C.
-
 </details>
 
 <details>
 <summary><strong>Numerical & Analytics</strong> — when data needs shape before it ships</summary>
 <br>
-
 <p>
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB" title="MATLAB — numerical computing, signal processing, EEG analysis"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" title="Pandas — data manipulation in Python"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" title="NumPy — numerical computing"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" title="SciPy — scientific computing"/>
 </p>
-
 Analytics workflows, DataForSEO integrations, signal processing for the EEG pipeline.
-
 </details>
 
 ---
 
-## Featured Projects
+## Projects
 
-Real repositories — distributed systems and production infrastructure first. _Star counts update live._
+### Distributed Systems & Infrastructure
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Go Distributed Queue</h3>
-      <div align="center">
-        <p><strong>Reliable Task Queue</strong></p>
-        <p>High-performance distributed task queue in Go — atomic reliable queuing (RPOPLPUSH), concurrent workers, dead-letter queues, and a real-time dashboard. Dockerized for production.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" title="Go"/>
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" title="Redis"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" title="Docker"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/Go-distributed-queue">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/Go-distributed-queue?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Agent Mesh</h3>
-      <div align="center">
-        <p><strong>Distributed Task Orchestration</strong></p>
-        <p>Orchestration engine simulating an AI engineering squad — event-driven architecture over Go, Redis, and WebSockets, fronted by a zero-lag React command center (60 FPS @ 500+ tasks).</p>
-        <p>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" title="Go"/>
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" title="Redis"/>
-          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" title="WebSockets"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/Agent-Mesh">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/Agent-Mesh?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">NetProbe</h3>
-      <div align="center">
-        <p><strong>Real-Time Traffic Analyzer</strong></p>
-        <p>Cross-platform C++20 packet analyzer — live capture (Npcap / libpcap), QUIC ClientHello SNI decryption, per-flow GeoIP/ASN, process attribution, and a Dear ImGui dashboard.</p>
-        <p>
-          <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++20"/>
-          <img src="https://img.shields.io/badge/ImGui-lightgrey?style=flat-square" title="Dear ImGui"/>
-          <img src="https://img.shields.io/badge/Npcap-blue?style=flat-square" title="Npcap / libpcap"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/netprobe-cpp">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/netprobe-cpp?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Real-Time Arbitrage Engine</h3>
-      <div align="center">
-        <p><strong>Streaming Data Pipeline</strong></p>
-        <p>High-frequency arbitrage detection with a decoupled microservices architecture — Apache Flink windowed analytics over Kafka streams, a Streamlit dashboard, and automated Discord alerts.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" title="Apache Flink"/>
-          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" title="Apache Kafka"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/real-time-arbitrage-engine">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/real-time-arbitrage-engine?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">THAAD Simulation</h3>
-      <div align="center">
-        <p><strong>Physics-Based Missile Interception</strong></p>
-        <p>3D interceptor sim with Kalman-filtered radar tracking, augmented proportional navigation, realistic drag / G-limits, and interactive 3D replays with battle reports.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-          <img src="https://img.shields.io/badge/Kalman_Filter-244c5a?style=flat-square" title="Kalman filtering"/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/THAAD-Simulation">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/THAAD-Simulation?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Agentic LLM Architectures</h3>
-      <div align="center">
-        <p><strong>12 Agentic Design Patterns</strong></p>
-        <p>Hands-on notebooks implementing reflection, ReAct, planning, multi-agent, memory, tree-of-thoughts & more — built with LangGraph, DeepSeek-V3, and Gemma 2.</p>
-        <p>
-          <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangGraph"/>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" title="Jupyter"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/Agentic-LLM-Architectures">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/Agentic-LLM-Architectures?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+| | |
+|:---|:---|
+| **[Go Distributed Queue](https://github.com/YehiaGewily/Go-distributed-queue)** | Fault-tolerant task queue with atomic Redis ops, lease-based crash recovery, priority tiers, delayed scheduling, and dead-letter queues — validated with automated chaos testing. |
+| | `Go` `Redis` `Docker` `Prometheus` |
+| **[Agent Mesh](https://github.com/YehiaGewily/Agent-Mesh)** | High-throughput orchestration engine sustaining 750+ RPS at sub-200ms latency via atomic Redis distribution, with a live React dashboard using temporal buffering for 60Hz rendering. |
+| | `Go` `React` `Redis` `WebSockets` `Docker` |
+| **[EnvGuardian](https://github.com/YehiaGewily/EnvGuardian)** | Encrypted `.env` Git workflow — age/SSH public keys, decrypt-compare write model, path-traversal hardened, fuzz-tested — backed by 8 ADRs and table-driven tests enforcing 80%+ coverage. |
+| | `Go` `age` `Cobra` `GoReleaser` |
 
-### Also Worth a Look
+### Data, Streaming & ML
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CerebralFlow</h3>
-      <div align="center">
-        <p><strong>Neural Dynamics Framework</strong></p>
-        <p>"Digital twin" of brain dynamics — reconstruct functional networks from signals and run coupled-oscillator simulations with Hilbert transform analysis.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-          <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" title="SciPy"/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/CerebralFlow">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/CerebralFlow?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Physics-AI Bridge</h3>
-      <div align="center">
-        <p><strong>Statistical Mechanics ↔ AI</strong></p>
-        <p>Tracing the links between statistical mechanics and AI: a vectorized 2D Ising model mapped onto Hopfield networks to show how physical energy minimization drives memory recall.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" title="NumPy"/>
-          <img src="https://img.shields.io/badge/Hopfield_Nets-244c5a?style=flat-square" title="Hopfield networks"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/Physics-AI-Bridge">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/Physics-AI-Bridge?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Fourier Epicycle Machine</h3>
-      <div align="center">
-        <p><strong>Interactive DFT Visualizer</strong></p>
-        <p>Draw any continuous path and watch a machine of rotating epicycles reconstruct it in real time — the Discrete Fourier Transform, made tangible. Built with p5.js.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" title="JavaScript"/>
-          <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" title="p5.js"/>
-          <img src="https://img.shields.io/badge/DFT-244c5a?style=flat-square" title="Discrete Fourier Transform"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/The-Fourier-Epicycle-Drawing-Machine">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/The-Fourier-Epicycle-Drawing-Machine?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">dot-spend</h3>
-      <div align="center">
-        <p><strong>Minimalist CLI Expense Tracker</strong></p>
-        <p>Cross-platform, minimalist expense tracker in pure Python — ASCII analytics, CSV export, and status-bar integration for Linux ricing.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"/>
-          <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" title="Command-line tool"/>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" title="Linux"/>
-        </p>
-        <a href="https://github.com/YehiaGewily/dot-spend">
-          <img src="https://img.shields.io/github/stars/YehiaGewily/dot-spend?style=flat-square&logo=github&color=00BFFF&labelColor=0d1117" alt="Stars"/>
-          &nbsp;<strong>View Repo →</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+| | |
+|:---|:---|
+| **[Real-Time Arbitrage Engine](https://github.com/YehiaGewily/real-time-arbitrage-engine)** | Four-service Docker Compose pipeline ingesting Coinbase/Binance WebSocket market data into Kafka, detecting BTC spreads with PyFlink tumbling windows, fanning events to Discord alerts and a Streamlit dashboard. |
+| | `Python` `Kafka` `Flink` `Docker` |
+| **[Agentic LLM Architectures](https://github.com/YehiaGewily/Agentic-LLM-Architectures)** | 12 agentic design patterns implemented as reusable LangGraph state machines — reflection, planning, tool-use, multi-agent orchestration — with Chroma retrieval, Tavily search, and LangSmith tracing. |
+| | `Python` `LangGraph` `LangChain` `Chroma` |
+| **[CerebralFlow](https://github.com/YehiaGewily/CerebralFlow)** | Neural dynamics framework — reconstruct functional networks from signals and run coupled-oscillator simulations with Hilbert transform analysis. |
+| | `Python` `SciPy` `NumPy` |
+| **[Physics-AI Bridge](https://github.com/YehiaGewily/Physics-AI-Bridge)** | Vectorized 2D Ising model (Metropolis-Hastings) with finite-size scaling, extended to Hopfield networks as learnable Ising systems for associative memory. |
+| | `Python` `NumPy` |
+
+### Systems, Networking & Simulation
+
+| | |
+|:---|:---|
+| **[NetProbe](https://github.com/YehiaGewily/netprobe-cpp)** | Cross-platform C++20 network traffic analyzer — live/offline capture, QUIC ClientHello SNI decryption, per-flow GeoIP/ASN, process attribution, and a Dear ImGui dashboard. |
+| | `C++20` `Npcap` `Dear ImGui` `mbedTLS` `CMake` |
+| **[THAAD Simulation](https://github.com/YehiaGewily/THAAD-Simulation)** | 3D missile interceptor sim with Kalman-filtered radar tracking, augmented proportional navigation, realistic drag / G-limits, and interactive 3D replays with battle reports. |
+| | `Python` `NumPy` `Kalman Filter` |
+
+### Tools & Experiments
+
+| | |
+|:---|:---|
+| **[Fourier Epicycle Machine](https://github.com/YehiaGewily/The-Fourier-Epicycle-Drawing-Machine)** | Draw any continuous path and watch a machine of rotating epicycles reconstruct it in real time — the DFT made tangible. Built with p5.js. |
+| | `JavaScript` `p5.js` |
+| **[dot-spend](https://github.com/YehiaGewily/dot-spend)** | Cross-platform, minimalist expense tracker in pure Python — ASCII analytics, CSV export, and status-bar integration for Linux ricing. |
+| | `Python` `CLI` `Linux` |
 
 ### Capstone
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3 align="center">Nabda &nbsp;—&nbsp; Health Monitoring Platform</h3>
-      <div align="center">
-        <p><strong>Graduation Capstone · Multi-Service IoT System</strong></p>
-        <p>End-to-end health platform built as a set of cooperating services: a <strong>C++ wearable device</strong> streams data into a <strong>Java / Spring backend</strong>, <strong>Python</strong> services handle the diagnostic report model and an AI chatbot, and <strong>TypeScript</strong> web + <strong>Flutter</strong> mobile apps surface it to users.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Java / Spring Boot"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python — ML report model & chatbot"/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" title="C++ — wearable device firmware"/>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" title="Flutter — mobile app"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" title="TypeScript — web app"/>
-        </p>
-        <a href="https://github.com/Nabda-Project"><strong>View Organization →</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## Experience
-
-| Role | Company | Systems I built |
-|------|---------|-----------------|
-| **Founding Engineer & Tech Lead** | Nover | Production AI image gen backend — diffusion fine-tuning on H100s, ComfyUI inference on AWS, custom WebSocket API |
-| **Software Engineer** | RankUp (EU, Remote) | Topical map update system — automated keyword research → clustering pipeline with SBERT embeddings and DataForSEO |
-| **Software Engineer** | U LLC (Ohio, Remote) | Real-time EEG digital twin pipeline · authored Kuramoto-based research paper |
-| **Chairman** | Mind Cloud Robotics | Led 70+ engineers · full stack migration to ROS 2 · 2nd & 3rd place at UGVC |
+| | |
+|:---|:---|
+| **[Nabda — Health Monitoring Platform](https://github.com/Nabda-Project)** | End-to-end cardiac-monitoring platform: a **C++ wearable** streams data into a **Java / Spring Boot** backend with PostgreSQL on RDS, **Python** services handle diagnostic reports and an AI chatbot, and **Flutter** + **Next.js** apps surface it to users. |
+| | `Spring Boot` `Java 21` `C++` `Python` `Flutter` `Next.js` `PostgreSQL` `Qwen3` |
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+<<<<<<< HEAD
 
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&show_icons=true&theme=shadow_green&hide_border=true&show_rank=true&rank_icon=rank&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" alt="Yehia's GitHub stats" />
 
   <img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" />
 
   <br><br>
+=======
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&show_icons=true&theme=shadow_green&hide_border=true&show_rank=true&rank_icon=github&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" alt="Yehia's GitHub stats" /></td>
+      <td><img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" /></td>
+    </tr>
+  </table>
+>>>>>>> 1d3bb59 (Augest version)
 
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9" alt="Top Languages" />
 
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YehiaGewily&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Yehia's Activity Graph" />
-
 </div>
 
 ---
