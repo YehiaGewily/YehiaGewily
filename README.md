@@ -243,14 +243,12 @@ Analytics workflows, DataForSEO integrations, signal processing for the EEG pipe
   <img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" />
 
   <br><br>
-=======
   <table>
     <tr>
       <td><img src="https://github-readme-stats-coral-two-59.vercel.app/api?username=YehiaGewily&show_icons=true&theme=shadow_green&hide_border=true&show_rank=true&rank_icon=github&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" alt="Yehia's GitHub stats" /></td>
       <td><img src="https://streak-stats.demolab.com/?user=YehiaGewily&theme=shadow_green&hide_border=true&background=0d1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" /></td>
     </tr>
   </table>
->>>>>>> 1d3bb59 (Augest version)
 
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9" alt="Top Languages" />
 
