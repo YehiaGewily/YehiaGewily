@@ -46,7 +46,7 @@ Backend and distributed-systems engineer with founding-team experience. I own pr
 
 - **Before —** Software Engineer at **U LLC** (Ohio, remote). Built a real-time EEG digital twin pipeline: streaming OpenBCI brainwave data, running Hilbert transforms on the wire, and feeding coupled oscillator models. Authored a Kuramoto-based EEG synchronization research paper; containerised backend services with Docker and enforced PyTest validation protocols.
 
-- **On the side —** Led **Mind Cloud Robotics** (70+ engineers) from a 9th-place ERC finish to **2nd and 3rd at UGVC**, and migrated the entire stack to ROS 2 on Ubuntu 24.04 — a distributed systems problem dressed up as a robotics one.
+- **Leadership —** **Chairman & Vice Chairman** at **Mind Cloud Robotics** (70+ engineers). Led the organization to **2nd and 3rd place at UGVC** (and 9th at ERC), secured industry sponsorships, and directed the migration to a distributed ROS 2 architecture on Ubuntu 24.04 — a distributed systems problem dressed up as a robotics one.
 
 ---
 
@@ -82,7 +82,7 @@ Backend and distributed-systems engineer with founding-team experience. I own pr
 
 <h4>Production Engineering & DevOps</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS — Amazon Web Services (ECS, S3, RDS, GPU instances)"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS — Amazon Web Services (ECS, EC2, S3, EFS, CloudFront, SES, RDS, GPU instances)"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker — containerization"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes — container orchestration"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" title="Terraform — infrastructure as code"/>
@@ -135,8 +135,24 @@ I lean on these when the system needs them — not the headline, but I've shippe
   <img src="https://img.shields.io/badge/Modal-00DC82?style=flat-square&logo=modal&logoColor=white" alt="Modal" title="Modal — serverless GPU compute"/>
   <img src="https://img.shields.io/badge/ComfyUI-000000?style=flat-square" alt="ComfyUI" title="ComfyUI — node-based diffusion workflow runtime"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" title="LangGraph — agentic LLM orchestration"/>
+  <img src="https://img.shields.io/badge/LangSmith-003366?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" title="LangSmith — evaluation and LLM observability"/>
+  <img src="https://img.shields.io/badge/Tavily-4A154B?style=flat-square" alt="Tavily" title="Tavily — search and research tool integration for AI agents"/>
 </p>
 Treated as an <em>infrastructure</em> problem: model deployment, inference serving, GPU workloads, visual generation systems, and agentic architectures.
+</details>
+
+<details>
+<summary><strong>Systems Testing & Verification</strong> — memory safety, fuzzing, low-level testing</summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" title="CMake — cross-platform build system"/>
+  <img src="https://img.shields.io/badge/GoogleTest-00599C?style=flat-square" alt="GoogleTest" title="GoogleTest — C++ unit testing and mocking"/>
+  <img src="https://img.shields.io/badge/libFuzzer-000000?style=flat-square" alt="libFuzzer" title="libFuzzer — coverage-guided fuzz testing"/>
+  <img src="https://img.shields.io/badge/ASan%20%2F%20UBSan-C71585?style=flat-square" alt="ASan / UBSan" title="AddressSanitizer & UndefinedBehaviorSanitizer — runtime memory error & UB detection"/>
+  <img src="https://img.shields.io/badge/Npcap%20%2F%20libpcap-4682B4?style=flat-square" alt="Npcap/libpcap" title="Npcap/libpcap — low-level packet capture"/>
+  <img src="https://img.shields.io/badge/mbedTLS-2E8B57?style=flat-square" alt="mbedTLS" title="mbedTLS — embedded cryptographic and SSL/TLS library"/>
+</p>
+Coverage-guided fuzz testing · memory safety & undefined-behavior sanitization · protocol decoding · table-driven test suites.
 </details>
 
 <details>
@@ -190,8 +206,8 @@ Analytics workflows, DataForSEO integrations, signal processing for the EEG pipe
 | | `Go` `Redis` `Docker` `Prometheus` |
 | **[Agent Mesh](https://github.com/YehiaGewily/Agent-Mesh)** | High-throughput orchestration engine sustaining 750+ RPS at sub-200ms latency via atomic Redis distribution, with a live React dashboard using temporal buffering for 60Hz rendering. |
 | | `Go` `React` `Redis` `WebSockets` `Docker` |
-| **[EnvGuardian](https://github.com/YehiaGewily/EnvGuardian)** | Encrypted `.env` Git workflow — age/SSH public keys, decrypt-compare write model, path-traversal hardened, fuzz-tested — backed by 8 ADRs and table-driven tests enforcing 80%+ coverage. |
-| | `Go` `age` `Cobra` `GoReleaser` |
+| **[EnvGuardian](https://github.com/YehiaGewily/EnvGuardian)** | Encrypted `.env` Git workflow via age/SSH keys: decrypt-compare write model, detached SSH signatures for ciphertext provenance, transactional recipient-rotation ledger, and symlink-aware path-traversal containment — backed by 8 ADRs and table-driven/fuzz tests (80%+ coverage). |
+| | `Go` `age` `Cobra` `GoReleaser` `libFuzzer` |
 
 ### Data, Streaming & ML
 
@@ -228,8 +244,8 @@ Analytics workflows, DataForSEO integrations, signal processing for the EEG pipe
 
 | | |
 |:---|:---|
-| **[Nabda — Health Monitoring Platform](https://github.com/Nabda-Project)** | End-to-end cardiac-monitoring platform: a **C++ wearable** streams data into a **Java / Spring Boot** backend with PostgreSQL on RDS, **Python** services handle diagnostic reports and an AI chatbot, and **Flutter** + **Next.js** apps surface it to users. |
-| | `Spring Boot` `Java 21` `C++` `Python` `Flutter` `Next.js` `PostgreSQL` `Qwen3` |
+| **[Nabda — Health Monitoring Platform](https://github.com/Nabda-Project)** | Six-service cardiac-monitoring platform: custom **ESP8266** wearable, **Spring Boot 3.5 / Java 21** backend on RDS PostgreSQL, threshold alerts via **WebSocket/STOMP & Firebase Cloud Messaging (FCM)**, and an Arabic clinical intake & diagnostic pipeline via fine-tuned **Qwen3-4B**, surfaced on Flutter and Next.js. |
+| | `Spring Boot` `Java 21` `ESP8266` `WebSocket/STOMP` `FCM` `PostgreSQL` `Qwen3-4B` `Flutter` `Next.js` |
 
 ---
 
