@@ -265,7 +265,7 @@ Analytics workflows, DataForSEO integrations, signal processing for the EEG pipe
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YehiaGewily&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Yehia's Activity Graph" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=YehiaGewily&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Yehia's Activity Graph" />
 </div>
 
 ---
