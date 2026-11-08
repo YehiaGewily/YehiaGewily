@@ -1,11 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&section=header&text=Yehia%20Gewily&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20AI%20Infrastructure%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Yehia Gewily, Backend & AI Infrastructure Engineer"/>
+
 <div align="center">
 
-  <h1>Yehia Gewily</h1>
-  <h3>Backend & AI Infrastructure Engineer · Founding Engineer at <a href="https://nover.studio">Nover</a></h3>
-
-  <p>
-    <code>Distributed backends</code> &nbsp;•&nbsp; <code>GPU inference & fine-tuning</code> &nbsp;•&nbsp; <code>LLM agents</code> &nbsp;•&nbsp; <code>Real-time streaming</code> &nbsp;•&nbsp; <code>DevOps & IaC</code>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00BFFF&multiline=true&repeat=false&width=520&height=140&lines=%24+whoami;Yehia+Gewily%2C+founding+engineer+at+Nover;%24+cat+focus.txt;Backend+%C2%B7+GPU+inference+%C2%B7+LLM+agents+%C2%B7+streaming;%24+echo+%24MOTTO;I+build+the+parts+of+a+product+nobody+sees." alt="$ whoami: Yehia Gewily, founding engineer at Nover. Focus: backend, GPU inference, LLM agents, streaming."/>
 
   <p>
     <a href="mailto:yehiasaidgewily@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email"/></a>
@@ -27,7 +24,7 @@ I can work across the stack when needed, but backend and AI infrastructure are w
 
 ## Experience
 
-- **Nover** · Founding Engineer & Tech Lead *(current)*<br>
+- **[Nover](https://nover.studio)** · Founding Engineer & Tech Lead *(current)*<br>
   Built and run the ML stack for an AI image generation platform: fine-tuning diffusion models on H100s, serving them through ComfyUI on autoscaled AWS GPU instances, and the WebSocket APIs and job orchestration around them. Took the product from early development to public waitlist launch.
 
 - **RankUp** · Backend & Data Automation *(EU, remote)*<br>
@@ -104,7 +101,7 @@ I can work across the stack when needed, but backend and AI infrastructure are w
   <br>
   <img src="https://github-readme-stats-coral-two-59.vercel.app/api/top-langs/?username=YehiaGewily&theme=shadow_green&hide_border=true&layout=compact&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9" alt="Top languages"/>
   <br>
-  <img src="https://github-activity-graph.luckylinux.dev/graph?username=YehiaGewily&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="Activity graph"/>
+  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
 ---
@@ -114,3 +111,5 @@ I can work across the stack when needed, but backend and AI infrastructure are w
   <br><br>
   <a href="mailto:yehiasaidgewily@gmail.com"><strong>yehiasaidgewily@gmail.com</strong></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0d1117&height=120&section=footer" width="100%" alt=""/>
