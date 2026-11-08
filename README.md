@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&section=header&text=Yehia%20Gewily&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20AI%20Infrastructure%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Yehia Gewily, Backend & AI Infrastructure Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=200&section=header&text=Yehia%20Gewily&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20and%20AI%20Infrastructure%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Yehia Gewily, Backend & AI Infrastructure Engineer"/>
 
 <div align="center">
 
